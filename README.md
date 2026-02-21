@@ -1,4 +1,4 @@
-# Earnings Volatility Crush — Simulation Study
+# Earnings Volatility Crush - Simulation Study
 
 ## Overview
 
